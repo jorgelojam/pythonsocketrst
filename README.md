@@ -26,7 +26,6 @@ Levantar el servidor web
 
 ```
 python3 /vagrant/server.py
-
 ```
 
 Ahora se conecta a la máquina cliente
